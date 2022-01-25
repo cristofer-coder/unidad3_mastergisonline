@@ -1,0 +1,14 @@
+.first {
+    font-style: italic;
+    border: 2px dotted pink;
+}
+
+.second {
+    color: white;
+    background-color: blue;
+}
+
+.third {
+    font-size: 12px;
+    background-color: rgb(39, 203, 209);
+}

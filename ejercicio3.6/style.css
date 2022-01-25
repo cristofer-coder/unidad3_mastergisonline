@@ -1,0 +1,78 @@
+body {
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.centro-salud {
+    margin: 4px;
+}
+
+.medicina-general {
+    margin: 4px;
+}
+
+.info-container {
+    display: flex;
+}
+
+.comments {
+    display: flex;
+}
+
+.contact-container {
+    margin-left: 10px;
+}
+
+.comments-container {
+    display: flex;
+    vertical-align: middle;
+}
+
+.f-comment {
+    margin: 20px 0 5px 0;
+}
+
+.s-comment {
+    margin: 5px 0 20px 0;
+}
+
+.b-comment {
+    margin-right: 10px;
+    align-items: center;
+}
+
+.book {
+    background-color: white;
+    border: 2px solid grey;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.budget {
+    background-color: darkgrey;
+    border: 2px solid grey;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+
+.ocho {
+    background-color: darkgrey;
+    color: white;
+    margin-left: 10px;
+    padding: 6px;
+    border-radius: 10px;
+    height: 30;
+    vertical-align: middle;
+    margin-top: 30px;
+}
+
+.ocho p {
+    margin: 0px;
+}
